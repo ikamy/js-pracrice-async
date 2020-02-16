@@ -1,7 +1,3 @@
-
-
-
-/* 
 // promise decleration
 
 var myPromise = new Promise((resolve, reject) => {
@@ -13,14 +9,10 @@ myPromise
 .then(successCallback)
 .catch(errorCallback)
 .finally(finallyCallback);
-*/
 
 
 
 
-
-
-/* 
 // async/await decleration
 
 async function myFunction() {
@@ -29,7 +21,6 @@ async function myFunction() {
 }
 
 myFunction();
-*/
 
 
 
